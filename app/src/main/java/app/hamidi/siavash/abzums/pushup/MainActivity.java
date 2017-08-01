@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void testPush(){
-        int i = 1+1;
+        int i = 2+2;
     }
 
 
