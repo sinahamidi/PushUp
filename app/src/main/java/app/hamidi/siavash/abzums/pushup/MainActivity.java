@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void testBranch() {
-        String s = "2222";
+        String s = "4444";
     }
 
 
